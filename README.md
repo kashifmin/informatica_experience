@@ -46,3 +46,14 @@ This round was on CoCubes platform for a time limit of 45 minutes. The questions
 
 
 # Round 6 - HR Interview
+1. How was your day? How are you feeling now?
+2. Why didn't they select you for VMware?
+3. What did your friends tell you about the HR Interview?
+4. What have you learnt during your 11th and 12th in St. Aloysius college?
+5. Tell me about your family.
+6. Did you contact any seniors working in our organization? 
+7. What do you know about Informatica?
+8. Can you tell me what I asked you just before the previous question? (he wanted me to recall what he asked, i still can't recall that question xD)
+9. What are your strengths and weaknesses?
+10. Are you an introvert?
+11. Do you have any questions for me?
